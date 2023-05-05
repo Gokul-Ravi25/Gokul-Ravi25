@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Gokul 
-- 💞️ I’m looking to collaborate on Web Development projects includes Reactjs, Nodejs, MongoDb and Express.
-- 📫 How to reach me 
+- 👋 Hi, I’m Gokul  
 - Linkedin- https://www.linkedin.com/in/gokul-r-b8912518b/
 
 <!---
