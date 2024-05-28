@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gokul  
-- Linkedin- https://www.linkedin.com/in/gokul-r-b8912518b/
+- Linkedin- [https://www.linkedin.com/in/gokulravi](https://www.linkedin.com/in/gokulr10x/)/
 
 <!---
 Gokul-Ravi25/Gokul-Ravi25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
